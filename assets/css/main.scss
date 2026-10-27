@@ -66,3 +66,5 @@ html:not([data-theme="dark"]) .page__title { color: #0f2a4a; }
 }
 .author__urls li { margin-bottom: 0.4em; }
 @media (max-width: 1023px) { .sidebar { margin-bottom: 1.5em; } }
+/* Portrait photo: rounded rectangle instead of the default circle */
+.author__avatar img { border-radius: 10px; }
