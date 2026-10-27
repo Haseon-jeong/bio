@@ -23,7 +23,7 @@ repository               : "Haseon-jeong/bio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png" — template placeholder; add a real photo to /images/ and set it here
+  avatar           : "profile.jpg"
   name             : "Haseon Jeong"
   pronouns         : # example: "she/her"  
   bio              : "<span class='author__role'>Associate Research Fellow, KISTEP</span><span class='author__role'>Ph.D. Candidate in Public Administration (Public Policy), Seoul National University</span><span class='author__keywords'>Public Policy · STI Policy · R&D Investment · Innovation Outcomes</span>"

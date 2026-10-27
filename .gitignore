@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Original full-resolution photo (only the cropped profile.jpg is published)
+images/20250604_141709_IMG_4681.JPG
