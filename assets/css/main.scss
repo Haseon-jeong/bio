@@ -68,3 +68,20 @@ html:not([data-theme="dark"]) .page__title { color: #0f2a4a; }
 @media (max-width: 1023px) { .sidebar { margin-bottom: 1.5em; } }
 /* Portrait photo: rounded rectangle instead of the default circle */
 .author__avatar img { border-radius: 10px; }
+
+/* Phones: show every menu item (wrapped under the name) instead of hiding them behind the ☰ button */
+@media (max-width: 767px) {
+  .greedy-nav button,
+  .greedy-nav .hidden-links { display: none !important; }
+  .greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: calc(100% - 40px);   // stays narrower than the nav, so the overflow script never collapses items
+    padding: 0.3rem 0;
+  }
+  .greedy-nav .visible-links li { display: block; }
+  .greedy-nav .visible-links li:first-child { flex-basis: 100%; }
+  .greedy-nav .visible-links a { margin: 0 0.9rem 0 0; padding: 0.35rem 0; }
+  .greedy-nav .visible-links li:first-child a { margin-left: 0; }
+}
