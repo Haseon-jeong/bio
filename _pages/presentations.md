@@ -20,4 +20,4 @@ author_profile: true
 
 ### 2022
 
-**Jeong, H.** (2022). *Empirical Study on R&D Investment, Firm Performance, and University–Industry–Government Collaboration: Evidence from Korean Venture Capital Firms.* Korean Association for Policy Studies (KAPS), Summer and International Conference.
+**Jeong, H.** (2022). *Empirical Study on R&D Investment, Firm Performance, and University–Industry–Government Collaboration: Evidence from Korean Venture Capital Firms.* Korean Association for Policy Studies (KAPS), Summer and International Conference. Oral Presentation.
