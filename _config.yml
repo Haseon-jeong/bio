@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "<span class='author__role'>Associate Research Fellow, KISTEP</span><span class='author__role'>Ph.D. Candidate in Public Administration (Public Policy), Seoul National University</span><span class='author__keywords'>Public Policy · STI Policy · R&D Investment · Innovation Outcomes</span>"
   location         : "Seoul, Korea"
-  employer         : "KISTEP"
+  employer         : ["KISTEP", "Seoul National University"]
   uri              : # URL
   email            : "summerj@kistep.re.kr" 
 
