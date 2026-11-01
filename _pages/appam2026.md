@@ -123,5 +123,6 @@ Takeaways
 Materials
 ======
 - Data: NTIS National R&D project micro-data, 2015–2024
-- [Poster (PDF)]({{ site.baseurl }}/files/APPAM2026_poster_Jeong.pdf)
+- [Handout (1 page, PDF)]({{ site.baseurl }}/files/APPAM2026_handout_Jeong.pdf)
+- [Poster (PDF, 90×44 in)]({{ site.baseurl }}/files/APPAM2026_poster_Jeong.pdf)
 - Contact: [summerj@kistep.re.kr](mailto:summerj@kistep.re.kr)
