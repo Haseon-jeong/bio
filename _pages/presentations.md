@@ -6,7 +6,7 @@ author_profile: true
 
 ### 2026
 
-**Jeong, H.** (2026). *Pandemic Proximity: The Geography of Research Collaboration During COVID-19.* Association for Public Policy Analysis & Management (APPAM) Annual Research Conference. Poster Presentation (scheduled). [Poster page](/bio/appam2026/)
+**Jeong, H.** (2026). *Pandemic Proximity: The Geography of Research Collaboration During COVID-19.* Association for Public Policy Analysis & Management (APPAM) Annual Research Conference. Poster Presentation. [Poster page](/bio/appam2026/)
 
 ### 2024
 

@@ -18,7 +18,7 @@ This project examines whether the COVID-19 pandemic altered the geographic patte
 
 Drawing on national R&D project data, the research investigates changes in the spatial structure of collaboration and their implications for understanding how research partnerships respond to major external disruptions.
 
-*Poster presentation scheduled for the 2026 APPAM Annual Research Conference.* [Poster page](/bio/appam2026/)
+*Poster presentation at the 2026 APPAM Annual Research Conference.* [Poster page](/bio/appam2026/)
 
 ## Regional R&D Investment, Specialization, and Performance in Korea
 
