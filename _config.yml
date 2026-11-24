@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Haseon Jeong"
   pronouns         : # example: "she/her"  
-  bio              : "<span class='author__role'>Associate Research Fellow, KISTEP</span><span class='author__role'>Ph.D. Candidate in Public Administration (Public Policy), Seoul National University</span><span class='author__keywords'>Public Policy · STI Policy · R&D Investment · Innovation Outcomes</span>"
+  bio              : "<span class='author__role'>Researcher, KISTEP</span><span class='author__role'>Ph.D. Candidate in Public Administration (Public Policy), Seoul National University</span><span class='author__keywords'>Public Policy · STI Policy · R&D Investment · Innovation Outcomes</span>"
   location         : "Seoul, Korea"
   employer         : ["KISTEP", "Seoul National University"]
   uri              : # URL

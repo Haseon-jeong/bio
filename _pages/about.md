@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Fellow at the Korea Institute of S&T Evaluation and Planning (KISTEP) and a Ph.D. candidate in Public Administration (Public Policy) at Seoul National University.
+I am a Researcher at the Korea Institute of S&T Evaluation and Planning (KISTEP) and a Ph.D. candidate in Public Administration (Public Policy) at Seoul National University.
 
 My research interests lie at the intersection of public policy and science, technology, and innovation (STI) policy, with a particular focus on public R&D investment, research collaboration, and regional innovation. I am interested in how government policies and public investments shape the behavior of firms and research institutions, and how these processes relate to innovation outcomes.
 
